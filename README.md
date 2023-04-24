@@ -1,2 +1,1 @@
-# hello-world-lp
-First example github project 
+This project is used to describe the Hello-world github 
